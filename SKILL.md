@@ -112,4 +112,4 @@ self-check ruler; rebuild the trigger list in that language.
 ---
 
 > **Credit / 致谢** — the peer-voice kernel is distilled from the communication wisdom
-> of [Mr. Xie](https://github.com/weihuxie).
+> of [weihu.xie](https://github.com/weihuxie).
