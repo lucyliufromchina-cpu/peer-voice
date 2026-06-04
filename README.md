@@ -64,7 +64,7 @@ and the self-check ruler, rebuild the trigger list.
 
 ## 致谢 / Credits
 
-本技能的「平视 / 去爹味」内核,蒸馏自 [谢总](https://github.com/weihuxie) 的沟通方式与表达智慧。谨此致谢。
+本技能的「平视 / 去爹味」内核,蒸馏自 [Mr. Xie](https://github.com/weihuxie) 的沟通方式与表达智慧。谨此致谢。
 
 The peer-voice kernel of this skill was distilled from the communication style and
 wisdom of [Mr. Xie](https://github.com/weihuxie). With gratitude.
