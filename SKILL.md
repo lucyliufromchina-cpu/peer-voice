@@ -108,3 +108,8 @@ is 爹味. The **principle** (level with the reader) is universal; the **trigger
 examples** are Chinese-specific. For other languages, keep the five moves and the
 self-check ruler; rebuild the trigger list in that language.
 为中文 B2B / 乙方对甲方文案调校:内核普适,触发词表与例子针对中文。换语言时,五个动作和自检尺子照用,触发词表按那门语言重建。
+
+---
+
+> **Credit / 致谢** — the peer-voice kernel is distilled from the communication wisdom
+> of [谢总 / Mr. Xie](https://github.com/weihuxie).
